@@ -11,19 +11,18 @@ providers = []
 
 for h3_tag in soup.find_all('h3'):
 
-    provider = h3_tag.text.replace('  ', ' ').strip()
+    provider = h3_tag.text.replace('  ', ' ').replace(u"\u2018", "'").replace(u"\u2019", "'").strip()
     tradingAs = provider
-    providerRegex = r"(.*)(?:\(trading as (\w*))"
-    providerTrading = re.search(providerRegex, provider)
+    tradingSearch = '(trading as '
 
-    if providerTrading:
-        provider = providerTrading[1].strip()
-        tradingAs = providerTrading[2].strip()
+    if tradingSearch in provider:
+        provider = provider.split(tradingSearch)[0].strip()
+        tradingAs = tradingAs.split(tradingSearch)[1].strip()[:-1]
 
     address = h3_tag.find_next('div', class_='address')
 
     addressList = list(filter(None, address.text.splitlines()))
-    addressText = ', '.join(addressList)
+    addressText = ', '.join(addressList).replace(u"\u2018", "'").replace(u"\u2019", "'")
 
     details = address.find_next_sibling('p')
     detailsText = details.text
@@ -41,10 +40,10 @@ for h3_tag in soup.find_all('h3'):
 
     providerJSON = {
         'provider_name': provider,
-        'trading_name': tradingAs,
+        'provider_trading_name': tradingAs,
         'provider_address': addressText,
         'provider_reference': reference,
-        'fca_reference': fcaReference,
+        'provider_fca_reference': fcaReference,
         'components_offered': cleanedComponents
     }
 

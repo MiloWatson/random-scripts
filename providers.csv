@@ -1,4 +1,4 @@
-provider_name,trading_name,provider_address,provider_reference,fca_reference,components_offered
+provider_name,provider_trading_name,provider_address,provider_reference,provider_fca_reference,components_offered
 6 Towns Credit Union Limited,6 Towns Credit Union Limited,"382 High Street, West Bromwich, B70 9LB",Z1618,419396,['Cash']
 Abrdn Fund Managers Limited,Abrdn Fund Managers Limited,"280 Bishopsgate, London, EC2M 4AG",Z1125,121803,['Stocks and Shares']
 Abrdn Investments Limited,Abrdn Investments Limited,"280 Bishopsgate, London, EC2M 4AG",Z1124,121891,['Stocks and Shares']
@@ -6,33 +6,33 @@ Abundance Investment Limited,Abundance,"Unit 16 Linen House, 253 Kilburn Lane, L
 Accrue Investment Management Limited,Accrue Investment Management Limited,"4 Northumberland Buildings, Bath, BA1 2JB",Z1475,226033,['Stocks and Shares']
 Aegon Asset Management UK plc,Aegon Asset Management UK plc,"3 Lochside Crescent, Edinburgh, EH12 9SA",Z1345,144267,['Stocks and Shares']
 Aegon Investment Solutions Limited,Aegon,"Edinburgh Park, 1 Lochside Crescent, Edinburgh, Midlothian, EH12 9SE, Scotland",Z1775,543123,['Stocks and Shares']
-AIB Group (UK) Plc,AIB,"10 Moleworth Street, Dublin 2, Ireland",Z1049,122088,['Cash']
+AIB Group (UK) Plc,AIB (NI),"10 Moleworth Street, Dublin 2, Ireland",Z1049,122088,['Cash']
 AJ Bell Securities Limited,AJ Bell Securities Limited,"4 Exchange Quay, Salford Quays, Manchester, M5 3EE",Z1688,155593,"['Stocks and Shares', 'Lifetime ISA']"
 Al Rayan Bank plc,Al Rayan Bank plc,"24A Calthorpe Road, Edgbaston, Birmingham, B15 1RP",Z1827,229148,"['Cash', 'Cash Junior ISA']"
-Alder Investment Management Limited,Alder Investment Management Limited,"1 King’s Arms Yard, London, EC2R 7AF",Z2067,122428,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Alder Investment Management Limited,Alder Investment Management Limited,"1 King's Arms Yard, London, EC2R 7AF",Z2067,122428,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Aldermore Bank plc,Aldermore,"Apex Plaza, Forbury Road, Reading, RG1 1AX",Z1129,204503,['Cash']
-Allianz Global Investors UK Limited,Allianz,"199 Bishopsgate, London, EC2M 3TY",Z2075,959195,['Stocks and Shares']
-Alpha Real property Investment Advisers LLP,Time,"338 Euston Road, London, NW1 3BG",Z1851,534723,['Stocks and Shares']
+Allianz Global Investors UK Limited,Allianz Global Investors,"199 Bishopsgate, London, EC2M 3TY",Z2075,959195,['Stocks and Shares']
+Alpha Real property Investment Advisers LLP,Time Investments,"338 Euston Road, London, NW1 3BG",Z1851,534723,['Stocks and Shares']
 Alvarium Investment Managers (UK) LLP,Alvarium Investment Managers (UK) LLP,"10 Old Burlington Street, London, W1S 3AG",Z1790,455686,['Stocks and Shares']
 Andrews Gwynne LLP,Andrews Gwynne LLP,"Aquilifer House, 2 Kelso Road, Leeds, LS2 9PW",Z2034,462657,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Apollo Multi Asset Management LLP,Apollo Multi Asset Management LLP,"Second Floor, 28 Reigate Hill, Reigate, Surrey, RH2 9NG",Z1900,487458,['Stocks and Shares']
 Arbuthnot Latham & Co Limited,Arbuthnot Latham & Co Limited,"Arbuthnot House, 7 Wilson Street, London, EC2M 2SN",Z1362,143336,"['Cash', 'Stocks and Shares']"
 ArchOver Limited,ArchOver,"5th Floor, 40 Gracechurch Street, London, EC3V OBT",Z1927,723755,['Innovative Finance ISA']
 Arnold Stansby & Co. Ltd,Arnold Stansby & Co. Ltd,"Alexandra Buildings, 28 Queen Street, Manchester, M2 5JJ",Z1004,569888,"['Cash', 'Stocks and Shares']"
-Artemis Fund Managers Limited,Artemis Fund Managers Limited,"Cassini House, 57 St James’s Street, London, SW1A 1LD",Z1157,122448,['Stocks and Shares']
+Artemis Fund Managers Limited,Artemis Fund Managers Limited,"Cassini House, 57 St James's Street, London, SW1A 1LD",Z1157,122448,['Stocks and Shares']
 Assetz Exchange Limited,Assetz Exchange Limited,"Assetz House, 335 Styal Road, Manchester, M22 5LW",Z1955,668931,['Innovative Finance ISA']
-Assetz SME Capital Limited,Assetz,"Assetz House, 335 Styal Road, Manchester, M22 5LW",Z1959,724996,['Innovative Finance ISA']
+Assetz SME Capital Limited,Assetz Capital,"Assetz House, 335 Styal Road, Manchester, M22 5LW",Z1959,724996,['Innovative Finance ISA']
 Atomos Investments Limited,Atomos Investments Limited,"24 Monument Street, London, England, EC3R 8AJ",Z1184,122588,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Aviation and Tech Capital Limited,Ablrate,"Badgemore House, Badgemore, Henley-on-Thames, Oxon, RG9 4NR",Z1940,724444,['Innovative Finance ISA']
 Aviva Investment Solutions UK Limited,Aviva Investment Solutions UK Limited,"Floor 5, Wellington Row, York, YO90 1WR",Z1741,515334,"['Cash', 'Stocks and Shares']"
-Aviva Investors UK Fund Services Limited,Aviva Investors UK Fund Services Limited,"St Helen’s, 1 Undershaft, London, EC3P 3DQ",Z1907,119310,"['Cash', 'Stocks and Shares']"
+Aviva Investors UK Fund Services Limited,Aviva Investors UK Fund Services Limited,"St Helen's, 1 Undershaft, London, EC3P 3DQ",Z1907,119310,"['Cash', 'Stocks and Shares']"
 Aviva Life & Pensions UK Limited,Aviva,"Floor 5, Wellington Row, York, YO90 1WR",Z1936,185896,['Stocks and Shares']
 Aviva Wrap UK Limited,Aviva Wrap UK Limited,"Floor 5, Wellington Row, York, YO90 1WR",Z1582,231530,['Stocks and Shares']
 AX Markets Limited,AX Markets Limited,"55 Third Floor, Blandford Street, London, W1U 7HW",Z1460,124580,['Stocks and Shares']
 AXA Investment Managers UK Limited,AXA Investment Managers UK Limited,"22 Bishopsgate, London, EC2N 4BQ",Z1703,119368,['Stocks and Shares']
 Bank of Baroda,Bank of Baroda,"32 City Road, London, EC1Y 2BD",Z1738,204624,['Cash']
 Bank of East Asia Ltd,Bank of East Asia Ltd,"London Branch, 75 Shaftesbury Avenue, London, W1D 5BB",Z1651,204628,['Cash']
-Bank of Ireland UK plc,Bank,"Bow Bells House, 1 Bread Street, London, EC4M 9BE",Z2054,512956,['Cash']
+Bank of Ireland UK plc,Bank of Ireland UK,"Bow Bells House, 1 Bread Street, London, EC4M 9BE",Z2054,512956,['Cash']
 Bank Pictet & Cie (Europe) AG London Branch,Bank Pictet & Cie (Europe) AG London Branch,"6th Floor, Stratton House, 5 Stratton Street, London, W1J 8LA",Z2080,989443,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Bank of Scotland plc,Bank of Scotland plc,"Trinity Road, Halifax, HX1 2RG",Z1144,169628,"['Cash', 'Cash Junior ISA']"
 Barclays Bank plc,Barclays Bank plc,"1 Churchill Place, London, E14 5HP",Z1174,122702,"['Cash', 'Stocks and Shares']"
@@ -52,9 +52,9 @@ Bordier & Cie (UK) plc,Bordier & Cie (UK) plc,"23 King Street, London, SW1Y 6QY"
 Bramdean Asset Management LLP,Bramdean Asset Management LLP,"58 Glentham Road, London, SW13 9JJ",Z1835,410624,"['Cash', 'Stocks and Shares', 'Innovative Finance ISA']"
 Brent Shrine Credit Union Limited,Brent Shrine Credit Union Limited,"4th Floor, The Emerson Building, Emerson Street, London, SE1 9DU",Z1810,213245,['Cash']
 Brewin Dolphin Limited,Brewin Dolphin Limited,"Time Central, Gallowgate, Newcastle Upon Tyne, NE1 4SR",Z1210,124444,"['Cash', 'Stocks and Shares']"
-Brewin Dolphin Wealth Management Limited,Brewin,"3 Richview Office Park, Clonskeagh, Dublin 14, Ireland",Z2045,616215,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Brewin Dolphin Wealth Management Limited,Brewin Dolphin Ireland,"3 Richview Office Park, Clonskeagh, Dublin 14, Ireland",Z2045,616215,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 BRI Wealth Management plc,BRI Wealth Management plc,"BRI House, Elm Court, Copse Drive, Meriden Green Business Park, Coventry, CV5 9RL",Z1290,122499,['Stocks and Shares']
-British Pearl Limited,British,"33 Cavendish Square, 14th Floor, London W1G 0PW",Z1895,674693,"['Innovative Finance ISA', 'Stocks and Shares', 'Stocks and shares Junior ISA']"
+British Pearl Limited,British Pearl,"33 Cavendish Square, 14th Floor, London W1G 0PW",Z1895,674693,"['Innovative Finance ISA', 'Stocks and Shares', 'Stocks and shares Junior ISA']"
 Brooks MacDonald Asset Management Limited,Brooks MacDonald Asset Management Limited,"21 Lombard Street, London, EC3V 9AH",Z1595,184918,"['Lifetime ISA', 'Stocks and Shares']"
 Brown Advisory Limited,Brown Advisory Limited,"18 Hanover Square, London, United Kingdom, W1S 1JY",Z1991,475370,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Brown Shipley & Co Ltd,Brown Shipley & Co Ltd,"2 Moorgate, London, EC2R 6AG",Z1260,124548,"['Cash', 'Stocks and Shares']"
@@ -64,7 +64,7 @@ BUX Financial Services Limited,BUX Financial Services Limited,"3rd Floor, Canvas
 Cambridge Building Society,Cambridge Building Society,"51 Newmarket Road, Cambridge, CB5 8EG",Z1274,157223,['Cash']
 Canaccord Genuity Wealth Limited,Canaccord Genuity Wealth Limited,"2nd Floor, 41 Lothbury, London, EC2R 7AE",Z1483,194927,['Stocks and Shares']
 Capel Court Public Limited Company,Capel Court Public Limited Company,"1 Balkerne Hill, Colchester, Essex, CO3 3FG",Z1517,154146,['Stocks and Shares']
-Capital Credit Union Limited,Capital,"62 Hamilton Place, Edinburgh, EH3 5AZ",Z1786,213575,['Cash']
+Capital Credit Union Limited,Capital Credit Union,"62 Hamilton Place, Edinburgh, EH3 5AZ",Z1786,213575,['Cash']
 Cardale Asset Management Limited,Cardale Asset Management Limited,"2 Greengate, Cardale Park, Harrogate, HG3 1GY",Z1562,226392,['Stocks and Shares']
 CASFS Limited,CASFS Limited,"One Temple Quay, 1 Temple Back East, Bristol, BS1 6DZ",Z1696,472783,['Stocks and Shares']
 Castle & Crystal Credit Union Ltd,Castle & Crystal Credit Union Ltd,"25 New Street, Dudley, DY1 1LT",Z1652,213711,['Cash']
@@ -73,7 +73,7 @@ Castlefield Investment Partners LLP,Castlefield Investment Partners LLP,"111 Pic
 Cater Allen Limited,Cater Allen Limited,"2 Triton Square, Regents Place, London, NW1 3AN",Z1534,178737,['Cash']
 Central Liverpool Credit Union Limited,Central Liverpool Credit Union Limited,"141 Park Street, Liverpool, L8 6QF",Z2048,213251,"['Cash', 'Cash Junior ISA']"
 Charles Stanley & Co Limited,Charles Stanley & Co Limited,"55 Bishopsgate, London, EC2N 3AS",Z1057,124412,"['Cash', 'Stocks and Shares']"
-Charter Court Financial Services Limited,Charter,"2 Charter Court, Broadlands, Wolverhampton, WV10 6TD",Z1898,494549,['Cash']
+Charter Court Financial Services Limited,Charter Savings Bank,"2 Charter Court, Broadlands, Wolverhampton, WV10 6TD",Z1898,494549,['Cash']
 Charteris Treasury Portfolio Managers Limited,Charteris Treasury Portfolio Managers Limited,"8/9 Lovat Lane, London, EC3R 8DW",Z1394,114952,['Stocks and Shares']
 CIRCA5000,CIRCA5000,"3rd Floor, 86-90 Paul Street, London, EC2A 4NE",Z2050,846067,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Citibank UK Ltd,Citibank UK Ltd,"Citigroup Centre, 25 Canada Square, Canary Wharf, London, E14 5LB",Z2024,805574,['Stocks and Shares']
@@ -87,14 +87,14 @@ Close Brothers Limited,Close Brothers Limited,"10 Crown Place, London, EC2A 4FT"
 Clydesdale Bank plc,Clydesdale Bank plc,"30 St Vincent Place, Glasgow, G1 2HL",Z1701,121873,['Cash']
 CMC Markets Investments Limited,CMC Markets Investments Limited,"133 Houndsditch, London, EC3A 7BX",Z2062,948126,['Stocks and Shares']
 Cofunds Limited,Cofunds Limited,"Cofunds House, Mayland Road, Witham, Essex, CM8 2FR",Z1466,194734,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
-Columbia Threadneedle Fund Management Limited,Columbia,"Exchange House, Primrose Street, London, EC2A 2NY",Z1190,121940,['Stocks and Shares']
+Columbia Threadneedle Fund Management Limited,Columbia Threadneedle Investments,"Exchange House, Primrose Street, London, EC2A 2NY",Z1190,121940,['Stocks and Shares']
 Columbia Threadneedle Management Limited,Columbia Threadneedle Management Limited,"8th Floor, Exchange House, Primrose Street, London, EC2A 2NY",Z1115,119230,"['Stocks and Shares', 'Stocks and Shares Junior ISA', 'Lifetime ISA']"
 Commsave Credit Union Limited,Commsave,"6 Duncan Close, Moulton Park, Northampton, NN3 6WL",Z1784,213407,['Cash']
 ConBrio Fund Partners Limited,ConBrio Fund Partners Limited,"8th Floor 111 Piccadilly, Manchester, M1 2HY",Z1875,229057,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Connor Broadley Limited,Connor Broadley Limited,"7 Curzon Street, London, W1J 5HG",Z2033,468321,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Consistent Unit Trust Management Company Limited,Consistent Unit Trust Management Company Limited,"Fair Lorna House, Buckingham Road, Singleborough, Milton Keynes, MK17 0RB",Z1556,139515,['Stocks and Shares']
 Courtiers Investment Services Limited,Courtiers Investment Services Limited,"18A Hart Street, Henley-on-Thames, RG9 2AU",Z1551,124995,"['Cash', 'Stocks and Shares']"
-Coutts & Company,Coutts,"440 Strand, London WC2R 0QS",Z1783,122287,"['Cash', 'Stocks and Shares', 'Junior ISA']"
+Coutts & Company,Coutts & Co,"440 Strand, London WC2R 0QS",Z1783,122287,"['Cash', 'Stocks and Shares', 'Junior ISA']"
 Coventry Building Society,Coventry Building Society,"Economic House, PO Box 9, High Street, Coventry, CV1 5QV",Z1177,150892,"['Cash', 'Cash Junior ISA']"
 Credit Suisse (UK) Limited,Credit Suisse (UK) Limited,"18th Floor, 1 Cabot Square, London, E14 4QJ",Z1272,124269,['Stocks and Shares']
 Credit Suisse International,Credit Suisse International,"18th Floor, 1 Cabot Square, London, E14 4QJ",Z1613,146702,"['Cash', 'Stocks and Shares']"
@@ -107,35 +107,35 @@ Cushon Money Limited,Cushon,"Highdale, Headley Road, Leatherhead, KT22 8QE",Z204
 Cynergy Bank Limited,Cynergy Bank Limited,"87-93 Chase Side, London, N14 5BU",Z1378,575105,['Cash']
 Darlington Building Society,Darlington Building Society,"Sentinel House, Morton Road, Darlington, Co Durham, DL1 4PT",Z1135,205895,['Cash']
 DB UK Bank Limited,DB UK Bank Limited,"Winchester House, 1 Great Winchester Street, London, EC2N 2DB",Z1962,140848,['Stocks and Shares']
-Denmark Square Limited,Money,"Kings House, 174 Hammersmith Road, London, W6 7JP",Z1932,727325,['Innovative Finance ISA']
+Denmark Square Limited,Money & Co,"Kings House, 174 Hammersmith Road, London, W6 7JP",Z1932,727325,['Innovative Finance ISA']
 Digital Moneybox Limited,Digital Moneybox Limited,"1-2 Hatfields, London, SE1 9PG",Z1954,712935,"['Stocks and Shares', 'Stocks and Shares Junior ISA', 'Lifetime ISA', 'Cash']"
 Dolfin Financial (UK) Limited — this company is in administration,Dolfin Financial (UK) Limited — this company is in administration,"50 Berkeley Street, Mayfair, London, W1J 8HA",Z1952,552894,['Stocks and Shares']
-Downing LLP,Downing,"6th Floor, 3 Lower Thames Street, London, EC3R 6HG",Z1894,545025,['Innovative Finance ISA']
+Downing LLP,Downing Crowd,"6th Floor, 3 Lower Thames Street, London, EC3R 6HG",Z1894,545025,['Innovative Finance ISA']
 Dudley Building Society,Dudley Building Society,"7 Harbour Buildings, The Waterfront, Brierley Hill, DY5 1LN",Z1088,161294,['Cash']
-Dura Capital Limited,Dura,"10 Throgmorton Avenue, London, EC2N 2DL",Z1985,786640,"['Cash', 'Stocks and Shares']"
+Dura Capital Limited,Dura Capital,"10 Throgmorton Avenue, London, EC2N 2DL",Z1985,786640,"['Cash', 'Stocks and Shares']"
 Earl Shilton Building Society,Earl Shilton Building Society,"22 The Hollow, Earl Shilton, Leicester, LE9 7NB",Z1012,206078,['Cash']
 Ecology Building Society,Ecology Building Society,"7 Belton Road, Silsden, Keighley, BD20 0EE",Z1013,162090,['Cash']
 Edaid Limited,Edaid,"Office 2113, WeWork Mansion House, 33 Queen Street, London, EC4R 1BR",Z1942,673376,['Innovative Finance ISA']
 EdenTree Investment Management Limited,EdenTree Investment Management Limited,"24 Monument Street, London, EC3R 8AJ",Z1552,527473,['Stocks and Shares']
-Edinburgh Alternative Finance Ltd,Lending,"Lending Crowd, 23 Manor Place, Edinburgh, EH3 7DX",Z1915,670991,['Innovative Finance ISA']
+Edinburgh Alternative Finance Ltd,Lending Crowd,"Lending Crowd, 23 Manor Place, Edinburgh, EH3 7DX",Z1915,670991,['Innovative Finance ISA']
 EFG Private Bank Limited,EFG Private Bank Limited,"Leconfield House, Curzon Street, London, W1J 5JB",Z1615,144036,['Stocks and Shares']
 Elevate Portfolio Services Limited,Elevate Portfolio Services Limited,"6 St. Andrew Square, Edinburgh, EH2 2AH",Z1180,144849,"['Cash', 'Stocks and Shares']"
-Elfin Market Limited,Elfin,"Level 39, One Canada Square, London, E14 5AB",Z2015,788176,"['Innovative Finance ISA', 'Stocks and Shares']"
+Elfin Market Limited,Elfin Market,"Level 39, One Canada Square, London, E14 5AB",Z2015,788176,"['Innovative Finance ISA', 'Stocks and Shares']"
 Embark Investment Services Limited,Embark Investment Services Limited,"100 Cannon Street, London, EC4N 6EU",Z1873,737356,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 E-Money Capital Limited,E-Money Capital Limited,"158-164 Fulham Road, London SW10 9PR",Z1947,231680,['Innovative Finance ISA']
 Emoneyhub Limited,Justus,"Block 1 G90, Alderley Park, Congleton Road, Nether Alderley, Macclesfield, Cheshire, SK10 4TG",Z1957,787900,['Innovative Finance ISA']
 Equiniti Financial Services Limited,Equiniti Financial Services Limited,"Aspect House, Spencer Road, Lancing, BN99 6DA",Z1650,468631,"['Lifetime ISA', 'Stocks and Shares']"
 Erewash Credit Union Limited,Erewash Credit Union Limited,"Cubo, The Old Post Office, Victoria Street, Derby, DE1 1EQ",Z1636,432447,['Cash']
-Evelyn Partners Asset Management Limited,Evelyn,"6 Chesterfield Gardens, London, England, W1J 5BQ",Z1607,223074,"['Cash', 'Stocks and Shares', 'Cash Junior ISA', 'Stocks and Shares Junior ISA']"
-Evelyn Partners Discretionary Investment Management Limited,Evelyn,"The Observatory, Western Road, Bracknell, Berkshire, RG12 1TL",Z1745,147103,"['Stocks and Shares', 'Junior ISA']"
-Evelyn Partners Fund Solutions Limited,St,"25 Moorgate, London, EC2R 6AY",Z1837,122401,['Stocks and Shares']
-Evelyn Partners Investment Management Services Limited,Evelyn,"6 Chesterfield Gardens, Mayfair, London, W1J 5BQ",Z1541,165169,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Evelyn Partners Asset Management Limited,Evelyn Partners,"6 Chesterfield Gardens, London, England, W1J 5BQ",Z1607,223074,"['Cash', 'Stocks and Shares', 'Cash Junior ISA', 'Stocks and Shares Junior ISA']"
+Evelyn Partners Discretionary Investment Management Limited,Evelyn Partners,"The Observatory, Western Road, Bracknell, Berkshire, RG12 1TL",Z1745,147103,"['Stocks and Shares', 'Junior ISA']"
+Evelyn Partners Fund Solutions Limited,St Vincent St Fund Administration,"25 Moorgate, London, EC2R 6AY",Z1837,122401,['Stocks and Shares']
+Evelyn Partners Investment Management Services Limited,Evelyn Partners,"6 Chesterfield Gardens, Mayfair, London, W1J 5BQ",Z1541,165169,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Evelyn Partners Investment Services Limited,Evelyn Partners Investment Services Limited,"45 Gresham Street, London, EC2V 7BG",Z1313,131816,"['Cash', 'Lifetime ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Evelyn Partners Securities,Evelyn Partners Securities,"Royal Liver Building, Pier Head, Liverpool, L3 1NY",Z1092,124255,"['Stocks and Shares', 'Junior ISA']"
 Fairstone Private Wealth Limited,Fairstone Private Wealth Limited,"4th Floor, 25 Copthall Avenue, London, EC2R 7BP",Z1816,457558,['Stocks and Shares']
 Family Equity Plan Limited,OneFamily,"16-17 West Street, Brighton, BN1 2RE",Z1074,122351,"['Cash', 'Stocks and Shares', 'Stocks and Shares Junior ISA', 'Lifetime ISA']"
 Farley & Thompson LLP,Farley & Thompson LLP,"Pine Grange, Bath Road, Bournemouth, BH1 2NU",Z1532,461601,['Stocks and Shares']
-FCE Bank plc,Ford,"Arterial Road, Laindon, Essex, SS15 6EE",Z1874,204469,['Cash']
+FCE Bank plc,Ford Money,"Arterial Road, Laindon, Essex, SS15 6EE",Z1874,204469,['Cash']
 FIM Capital Limited,FIM Capital Limited,"55 Athol Street, Douglas, Isle of Man, IM1 1LA",Z1856,585601,['Stocks and Shares']
 Financial Administration Services Limited,Financial Administration Services Limited,"Kingswood Fields, Millfield Lane, Tadworth, Surrey, KT20 6RP",Z1014,122169,"['Cash', 'Stocks and Shares', 'Lifetime ISA']"
 Fineco Bank SPA,Fineco Bank SPA,"c/o MFM Limited, 90-92 Pentonville Road, London, N1 9HS",Z2027,222329,"['Cash', 'Stocks and Shares']"
@@ -145,11 +145,11 @@ Fluro Platform Limited,Fluro,"60 Grays Inn Road, London, WC1X 8AQ",Z1902,723151,
 FNZ Securities Limited ​,FNZ Securities Limited ​,"Level 5, 67 Lombard Street, London, EC3V 9LJ",Z1960,733400,"['Cash', 'Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Focus 2020 Limited,Focus 2020 Limited,"H Q S Wellington, Temple Stairs, Victoria Embankment, London, WC2R 2PN",Z1910,727214,['Innovative Finance ISA']
 Folk2Folk Limited,Folk2Folk Limited,"1 Business Centre, Western Road, Launceston, Cornwall PL15 7FJ",Z1911,720867,['Innovative Finance ISA']
-Forester Life Limited,Foresters,"Forester House, 2 Cromwell Avenue, Bromley, BR2 9BF",Z1316,177898,"['Stocks and Shares', 'Stocks and Shares Junior ISA', 'Lifetime ISA']"
+Forester Life Limited,Foresters Financial,"Forester House, 2 Cromwell Avenue, Bromley, BR2 9BF",Z1316,177898,"['Stocks and Shares', 'Stocks and Shares Junior ISA', 'Lifetime ISA']"
 Franklin Templeton Investment Management Ltd,Franklin Templeton Investment Management Ltd,"78 Cannon Street, London, EC4N 6HL",Z1181,121779,"['Cash', 'Stocks and Shares']"
 Freetrade Limited,Freetrade,"Level 2, The Truman Brewery, 91 Brick Lane, London, E1 6QL",Z1967,783189,['Stocks and Shares']
 Fund Ourselves Limited,Fund Ourselves Limited,"Unit 1d Woodstock Studios, 36 Woodstock Grove, London, W12 8LE",Z1981,729238,['Innovative Finance ISA']
-Funding Circle Limited,Funding,"71 Queen Victoria Street, London, EC4V 4AY",Z1946,722513,['Innovative Finance ISA']
+Funding Circle Limited,Funding Circle,"71 Queen Victoria Street, London, EC4V 4AY",Z1946,722513,['Innovative Finance ISA']
 FundingSecure Limited — this company is in administration,FundingSecure Limited — this company is in administration,"Unit 8, Stokenchurch Business Park, Ibstone Road, Stokenchurch HP14 3FE",Z1939,698305,['Innovative Finance ISA']
 Fundment Limited,Fundment,"Mappin House, 4 Winsley Street, London, W1W 8HF",Z1884,732727,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 FundRock Partners Limited,FundRock Partners Limited,"52-54 Gracechurch Street, London, EC3V 0EH",Z1656,469278,['Stocks and Shares']
@@ -174,36 +174,36 @@ Handelsbanken plc,Handelsbanken plc,"3 Thomas More Square, London E1W 1WY",Z2008
 Handelsbanken Wealth and Asset Management Limited,Handelsbanken Wealth and Asset Management Limited,"77 Mount Ephraim, Tunbridge Wells, Kent, TN4 8BS",Z1239,197340,"['Cash', 'Stocks and Shares']"
 Hanley Economic Building Society,Hanley Economic Building Society,"Granville House, Festival Park, Hanley, Stoke on Trent, ST1 5TB",Z1231,206024,['Cash']
 Hanson Asset Management Limited,Hanson Asset Management Limited,"6 Arlington Street, London, SW1A 1RE",Z1823,525784,['Stocks and Shares']
-Hargreaves Lansdown Asset Management Limited,Hargreaves,"One College Square South, Anchor Road, Bristol, BS1 5HL",Z1163,115248,"['Cash', 'Lifetime ISA', 'Stocks and Shares']"
+Hargreaves Lansdown Asset Management Limited,Hargreaves Lansdown,"One College Square South, Anchor Road, Bristol, BS1 5HL",Z1163,115248,"['Cash', 'Lifetime ISA', 'Stocks and Shares']"
 Hargreaves Lansdown Savings Limited,Hargreaves Lansdown Savings Limited,"One College Square South, Anchor Road, Bristol, BS1 5HL",Z2039,915119,['Cash']
 Harpenden Building Society,Harpenden Building Society,"Mardall House, 9-11 Vaughan Road, Harpenden, Herts, AL5 4HU",Z1047,157260,['Cash']
 Hathaway Investment Management Limited,Hathaway Investment Management Limited,"14 Bennetts Hill, Birmingham, B2 5RS",Z1445,191751,['Stocks and Shares']
-Hawksmoor Investment Management Limited,Hawksmoor Investment Management Limited,"Sterling Court, 17 Dix’s Field, Exeter, Devon, EX1 1QA",Z1657,472929,['Stocks and Shares']
+Hawksmoor Investment Management Limited,Hawksmoor Investment Management Limited,"Sterling Court, 17 Dix's Field, Exeter, Devon, EX1 1QA",Z1657,472929,['Stocks and Shares']
 HBOS Investment Fund Managers Limited,HBOS Investment Fund Managers Limited,"69 Morrison Street, Edinburgh, EH3 8BW",Z1215,119223,['Stocks and Shares']
 Hedley & Company Stockbrokers Ltd,Hedley & Company Stockbrokers Ltd,"Unit 19, Trident Park, Trident Way, Blackburn, Lancashire, BB1 3NU",Z1205,471207,"['Cash', 'Stocks and Shares']"
 Henderson Rowe Limited,Henderson Rowe Limited,"8th Floor, Berkeley Square House, Berkeley Square, London, W1J 6BR",Z1573,401809,"['Cash', 'Stocks and Shares']"
 Hilbert Investment Solutions Ltd,Hilbert Investment Solutions Ltd,"St Clements House, 27 Clements Lane, London, EC4N 7AE",Z1989,698380,"['Cash', 'Stocks and Shares', 'Innovative Finance ISA']"
 Hinckley and Rugby Building Society,Hinckley and Rugby Building Society,"Upper Bond Street, Hinckley, Leicestershire, LE10 1NZ",Z1236,206043,['Cash']
-HNW Lending Limited,HNW,"72 Charlotte Street, London, W1T 4QQ",Z1917,712956,['Innovative Finance ISA']
+HNW Lending Limited,HNW Lending,"72 Charlotte Street, London, W1T 4QQ",Z1917,712956,['Innovative Finance ISA']
 Holbein Partners LLP,Holbein Partners LLP,"80 Victoria Street, London, SW1E 5JL",Z1818,529416,['Stocks and Shares']
 HSBC Trust Company (UK) Limited — Corporate,HSBC Trust Company (UK) Limited — Corporate,"Forum 1, The Forum, Parkway, Whiteley, Fareham, Hampshire, PO15 7PA",Z1358,119297,"['Cash', 'Stocks and Shares']"
 HSBC Trust Company (UK) Limited — Retail,HSBC Trust Company (UK) Limited — Retail,"Forum 1, The Forum, Parkway, Whiteley, Fareham, Hampshire, PO15 7PA",Z1359,119297,"['Cash', 'Stocks and Shares']"
-HSBC UK Bank plc,HSBC,"1 Centenary Square, Birmingham, West Midlands, B1 1HQ",Z1990,765112,"['Cash', 'Stocks and Shares']"
+HSBC UK Bank plc,HSBC UK,"1 Centenary Square, Birmingham, West Midlands, B1 1HQ",Z1990,765112,"['Cash', 'Stocks and Shares']"
 Hubwise Securities Limited,Hubwise Securities Limited,"Waverley Court, Wiltell Road, Lichfield, Staffordshire, WS14 9ET",Z1723,502619,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 I F Mackinnon & Company LLP,I F Mackinnon & Company LLP,"Northwood House, Ward Avenue, Cowes, Isle of Wight, PO31 8AZ",Z1995,231328,['Innovative Finance ISA']
-IBP Markets Limited,IBP,"14-16 Dowgate Hill, London, EC4R 2SU",Z2037,520929,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
+IBP Markets Limited,IBP Markets,"14-16 Dowgate Hill, London, EC4R 2SU",Z2037,520929,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 iDealing.Com Limited,iDealing.Com Limited,"Finsbury House, 23 Finsbury Circus, London, EC2M 7EA",Z1447,191660,"['Stocks and Shares', 'Innovative Finance ISA']"
-IFG.VC Limited,Cur8,"71-75 Shelton Street, London, WC2H 9JQ",Z2076 ,943736 ,['Innovative Finance ISA']
-IFSL Administration Limited,Select,"Marlborough House, 59 Chorley New Road, Bolton, BL1 4QP",Z2066,756360,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+IFG.VC Limited,Cur8 Capital,"71-75 Shelton Street, London, WC2H 9JQ",Z2076 ,943736 ,['Innovative Finance ISA']
+IFSL Administration Limited,Select Platform,"Marlborough House, 59 Chorley New Road, Bolton, BL1 4QP",Z2066,756360,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 IG Trading & Investments Limited,IG Trading & Investments Limited,"Cannon Bridge House, 25 Dowgate Hill, London, EC4R 2YA",Z2058,944492,['Stocks and Shares']
 IM Asset Management Limited,IM Asset Management Limited,"Riverside East, 2 Millsands, Sheffield, S3 8DT",Z1577,402770,"['Cash', 'Stocks and Shares']"
-Independent Order of Odd Fellows Manchester Unity Friendly Society Limited,The,"Oddfellows House, 184-186 Deansgate, Manchester, M3 3WB",Z1754,109995,"['Cash', 'Stocks and Shares', 'Lifetime ISA']"
+Independent Order of Odd Fellows Manchester Unity Friendly Society Limited,The Oddfellows,"Oddfellows House, 184-186 Deansgate, Manchester, M3 3WB",Z1754,109995,"['Cash', 'Stocks and Shares', 'Lifetime ISA']"
 Integrated Financial Arrangements Limited,Integrated Financial Arrangements Limited,"29 Clements Lane, London, EC4N 7AE",Z1429,190856,"['Cash', 'Lifetime ISA', 'Stocks and Shares']"
-Intelligent Money Limited,Intelligent,"The Shire Hall, High Pavement, Nottingham, NG1 1HN",Z1847,219473,"['Cash', 'Stocks and Shares']"
+Intelligent Money Limited,Intelligent Money,"The Shire Hall, High Pavement, Nottingham, NG1 1HN",Z1847,219473,"['Cash', 'Stocks and Shares']"
 Interactive Brokers (U.K.) Limited,Interactive Brokers (U.K.) Limited,"Level 20, Heron Tower, 110 Bishopsgate, London, EC2N 4AY",Z2056,208159,['Stocks and Shares']
 Interactive Investor Services Limited,Interactive Investor Services Limited,"Exchange Court, Duncombe Street, Leeds, LS1 4AX",Z1194,141282,"['Cash', 'Stocks and Shares']"
 Invesco Fund Managers Limited,Invesco Fund Managers Limited,"Perpetual House, Perpetual Park Drive, Henley-on-Thames, RG9 1HH",Z1857,119298,"['Cash', 'Stocks and Shares']"
-Invest and Fund Limited,Invest,"HCP Building, Chichester Road, St Leonards on Sea, East Sussex, TN38 9BG",Z1966,711378,['Innovative Finance ISA']
+Invest and Fund Limited,Invest & Fund,"HCP Building, Chichester Road, St Leonards on Sea, East Sussex, TN38 9BG",Z1966,711378,['Innovative Finance ISA']
 Investec Bank plc,Investec Bank plc,"30 Gresham Street, London, EC2V 7QP",Z1364,172330,"['Cash', 'Stocks and Shares']"
 Investec Wealth & Investment Limited,Investec Wealth & Investment Limited,"30 Gresham Street, London, EC2V 7QP",Z1093,124537,"['Cash', 'Stocks and Shares']"
 Investengine (UK) Limited,Investengine,"Office 327, The Metal Box Factory, 30 Great Guildford Street, London, SE1 0HS",Z2012,801128,['Stocks and Shares']
@@ -211,12 +211,12 @@ Investment Funds Direct Limited,Investment Funds Direct Limited,"10 Fenchurch Av
 Investment Fund Services Limited,Investment Fund Services Limited,"Marlborough House, 59 Chorley New Road, Bolton, BL1 4QP",Z1665,464193,"['Cash', 'Stocks and Shares']"
 Invinitive Financial UK Ltd,Invinitive Financial UK Ltd,"128 City Road, London, EC1V 2NX",Z2074,964301,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 ITI Capital Limited,ITI Capital Limited,"Tower 42, International Financial Centre, 25 Old Broad Street, London, EC2N 1HQ",Z1497,171487,['Stocks and Shares']
-J & E Davy (UK) Limited,Davy,"Donegall House, 7 Donegall Square North, Belfast, BT1 5GB",Z2041,172140,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+J & E Davy (UK) Limited,Davy UK,"Donegall House, 7 Donegall Square North, Belfast, BT1 5GB",Z2041,172140,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 J M Finn & Co Ltd,J M Finn & Co Ltd,"4 Coleman Street, London, EC2R 5TA",Z1614,450754,['Stocks and Shares']
 J. Edward Sellars & Partners Limited,J. Edward Sellars & Partners Limited,"The Drive House, Manor Farm, Kenn Moor Road, Kenn Clevedon, BS21 6TZ",Z1366,116320,"['Cash', 'Stocks and Shares']"
 James Brearley & Sons Limited,James Brearley & Sons Limited,"Walpole House, Unit 2, Burton Road, Blackpool, FY4 4WX",Z1021,189219,"['Cash', 'Stocks and Shares']"
 James Hambro & Partners LLP,James Hambro & Partners LLP,"45 Pall Mall, London, SW1Y 5JG",Z1726,513246,"['Cash', 'Stocks and Shares']"
-James Hay Wrap Managers Limited,James Hay Wrap Managers Limited,"Dunns House, St Paul’s Road, Salisbury, SP2 7BF",Z1561,225574,"['Cash', 'Stocks and Shares']"
+James Hay Wrap Managers Limited,James Hay Wrap Managers Limited,"Dunns House, St Paul's Road, Salisbury, SP2 7BF",Z1561,225574,"['Cash', 'Stocks and Shares']"
 James Sharp & Co LLP,James Sharp & Co LLP,"The Exchange, 5 Bank Street, Bury, Lancashire, BL9 0DN",Z1341,813845,['Stocks and Shares']
 Janus Henderson Fund Management UK Limited,Janus Henderson Fund Management UK Limited,"201 Bishopsgate, London, EC2M 3AE",Z1860,121859,['Stocks and Shares']
 Jarvis Investment Management Ltd,Jarvis Investment Management Ltd,"78 Mount Ephraim, Tunbridge Wells, TN4 8BS",Z1107,116413,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
@@ -225,7 +225,7 @@ Jupiter Unit Trust Managers Limited,Jupiter Unit Trust Managers Limited,"Zig Zag
 Kapwealth Ltd,Kapwealth Ltd,"c/o Jellyfish, Floor 28, The Shard, 32 London Bridge Street, London, SE1 9SG",Z1877,590782,"['Cash', 'Innovative Finance ISA', 'Stocks and Shares']"
 Kidstart Limited,Kidstart,"Unit 10, Plato Place, 72/74 Dionis Road, London, SW6 4TU",Z2006,473606,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Killik & Co LLP,Killik & Co LLP,"46 Grosvenor Street, London, W1K 3HN",Z1073,462016,"['Cash', 'Stocks and Shares', 'Lifetime ISA']"
-King & Shaxson Asset Management Limited,King,"1st Floor, Cutlers Court, 115 Houndsditch, London, EC3A 7BR",Z2052,823315,['Stocks and Shares']
+King & Shaxson Asset Management Limited,King & Shaxson Ethical Investing,"1st Floor, Cutlers Court, 115 Houndsditch, London, EC3A 7BR",Z2052,823315,['Stocks and Shares']
 Kingdom Bank Limited,Kingdom Bank Limited,"Ruddington Fields Business Park, Mere Way, Ruddington, Nottingham, NG11 6JS",Z1576,400972,['Cash']
 Kuflink Limited,Kuflink Limited,"21 West Street, Gravesend, Kent, DA11 0BF",Z1943,724890,['Innovative Finance ISA']
 Landlordinvest Limited,Landlordinvest,"91-93 Buckingham Palace Road, London, SW1W 0RP",Z1909,660926,['Innovative Finance ISA']
@@ -244,13 +244,13 @@ Liverpool Victoria Financial Services Ltd,Liverpool Victoria Financial Services 
 Lloyds Bank plc,Lloyds Bank plc,"25 Gresham Street, London, EC2V 7HN",Z1255,119278,"['Cash', 'Stocks and Shares', 'Cash Junior ISA']"
 Loanpad Limited,Loanpad Limited,"5 Technology Park, Colindeep Lane, Colindale, London, NW9 6BX",Z1987,741576,['Innovative Finance ISA']
 Logic Investments Limited,Logic Investments Limited,"87 Moorgate, London EC2M 6SA",Z2044,516459,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
-Lombard Odier (Europe) S.A.,Lombard,"Queensbury House, 3 Old Burlington Street, London, W1S 3AB",Z1897,597896,"['Cash', 'Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Lombard Odier (Europe) S.A.,Lombard Odier,"Queensbury House, 3 Old Burlington Street, London, W1S 3AB",Z1897,597896,"['Cash', 'Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 London Court Limited,London Court Limited,"Meridien House, 42 Upper Berkeley Street, London, W1H 5PW",Z2042,146522,"['Innovative Finance ISA', 'Stocks and Shares']"
 London House Exchange Limited,London House Exchange Limited,"3rd Floor, The News Building, 3 London Bridge Street, London, SE1 9SG",Z1886,613499,"['Innovative Finance ISA', 'Stocks and Shares']"
 London Mutual Credit Union Limited,London Mutual Credit Union Limited,"4 Heaton Road, London, SE15 3TH",Z1782,213248,['Cash']
 Loughborough Building Society,Loughborough Building Society,"6 High Street, Loughborough, LE11 2QB",Z1023,157258,['Cash']
 M & G Securities Limited,M & G Securities Limited,"10 Fenchurch Avenue, London, EC3M 5AG",Z1854,122057,['Stocks and Shares']
-Madiston plc,Madiston,"41 Ashley Road, Walton on Thames, Surrey, KT12 1HG",Z1920,724098,['Innovative Finance ISA']
+Madiston plc,Madiston LendLoanInvest,"41 Ashley Road, Walton on Thames, Surrey, KT12 1HG",Z1920,724098,['Innovative Finance ISA']
 Maitland Institutional Services Limited,Maitland Institutional Services Limited,"Hamilton Centre, Rodney Way, Chelmsford, Essex, CM1 3BY",Z1666,469627,['Stocks and Shares']
 Man Fund Management UK Limited,Man Fund Management UK Limited,"Riverbank House, 2 Swan Lane, London, EC4R 3AD",Z1431,185916,['Stocks and Shares']
 Margetts Fund Management Limited,Margetts Fund Management Limited,"1 Sovereign Court, Graham Street, Birmingham, B1 3JR",Z1518,208565,['Stocks and Shares']
@@ -258,7 +258,7 @@ Market Harborough Building Society,Market Harborough Building Society,"Welland H
 Marks & Spencer Financial Services plc,Marks & Spencer Financial Services plc,"Kings Meadow, Chester Business Park, Chester, CH99 9FB",Z1110,151427,"['Cash', 'Stocks and Shares']"
 Marks and Spencer Unit Trust Management Limited,Marks and Spencer Unit Trust Management Limited,"Kings Meadow, Chester Business Park, Chester, CH99 9FB",Z1673,141662,['Stocks and Shares']
 Marsden Building Society,Marsden Building Society,"6-20 Russell Street, Nelson, BB9 7NJ",Z1142,206050,['Cash']
-Match the Cash Limited,Guarantormyloan,"4th Floor, 25-27 Surrey Street, Norwich, NR1 3NX",Z1931,718844,['Innovative Finance ISA']
+Match the Cash Limited,Guarantormyloan.co.uk,"4th Floor, 25-27 Surrey Street, Norwich, NR1 3NX",Z1931,718844,['Innovative Finance ISA']
 Maunby Investment Management Limited,Maunby Investment Management Limited,"30 Market Place West, Ripon, North Yorkshire, HG4 2PT",Z1416,114428,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 McInroy & Wood Limited,McInroy & Wood Limited,"Easter Alderston, Haddington, Lothian, EH41 3SF",Z1756,121926,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 McInroy & Wood Portfolios Limited,McInroy & Wood Portfolios Limited,"Easter Alderston, Haddington, Lothian, EH41 3SF",Z1834,144205,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
@@ -271,16 +271,16 @@ Metlife Europe D.A.C,Metlife Europe D.A.C,"Invicta House, Trafalgar Place, Brigh
 Metro Bank plc,Metro Bank plc,"One Southampton Row, London, WC1B 5HA",Z1732,488982,['Cash']
 Metropolitan Police Friendly Society Ltd,Metropolitan Police Friendly Society Ltd,"Central Court, 1B Knoll Rise, Orpington, BR6 0JA",Z1126,110026,"['Cash', 'Junior ISA', 'Lifetime ISA', 'Stocks and Shares']"
 MFM Investment Ltd,Moneyfarm,"90-92 Pentonville Road, London, NI 9HS",Z1862,629539,"['Cash', 'Stocks and Shares']"
-MHA Caves Wealth Limited,MHA,"Lockgates House, Rushmills, Northampton NN4 7YB",Z1136,143715,"['Cash', 'Stocks and Shares']"
+MHA Caves Wealth Limited,MHA Caves Wealth,"Lockgates House, Rushmills, Northampton NN4 7YB",Z1136,143715,"['Cash', 'Stocks and Shares']"
 MICL Limited,MICL Limited,"Oxford House, 12-20 Oxford Street, Newbury, RG14 1JB",Z1350,188586,['Stocks and Shares']
-Miller & Co Investment Management Limited,Miller & Co Investment Management Limited,"14 Queen’s Road, Aberdeen, AB15 4ZT",Z1085,166062,['Stocks and Shares']
+Miller & Co Investment Management Limited,Miller & Co Investment Management Limited,"14 Queen's Road, Aberdeen, AB15 4ZT",Z1085,166062,['Stocks and Shares']
 Mole Valley Asset Management Ltd,Mole Valley Asset Management Ltd,"Suite C1, South House, 21-37 South Street, Dorking, RH4 2JZ",Z1840,613008,"['Lifetime ISA', 'Stocks and Shares']"
 Moneything Capital Limited — this company is in administration,Moneything Capital Limited — this company is in administration,"Moorfields Advisory Ltd, 20 Old Bailey, London, EC4M 7AN",Z2070,703549,['Innovative Finance ISA']
 Monmouthshire Building Society,Monmouthshire Building Society,"John Frost Square, Newport, Gwent, NP20 1PX",Z1028,206052,['Cash']
 Monzo Bank Limited,Monzo,"Broadwalk House, 5 Appold Street, London, EC2A 2AG",Z2005,730427,"['Cash', 'Cash Junior ISA', 'Innovative Finance ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 More Lending Solutions Limited,More Lending Solutions Limited,"Scottish Provident Buildings, 7 Donegall Square West, Belfast, BT1 6JH",Z1965,702503,['Innovative Finance ISA']
 Morgan Stanley & Co. International plc,Morgan Stanley & Co. International plc,"25 Cabot Square, London, E14 4QA",Z1533,165935,"['Cash', 'Stocks and Shares']"
-Morningstar Wealth Administration Limited,Morningstar Wealth Administration Limited,"1 Oliver’s Yard, 55-71 City Road, London, EC1Y 1HQ",Z1689,463566,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Morningstar Wealth Administration Limited,Morningstar Wealth Administration Limited,"1 Oliver's Yard, 55-71 City Road, London, EC1Y 1HQ",Z1689,463566,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Multrees Investor Services Limited,Multrees Investor Services Limited,"40 Princes Street, Edinburgh, EH2 2BY",Z1841,526528,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Murray Asset Management UK Limited,Murray Asset Management UK Limited,"3 Glenfinlas Street, Edinburgh, EH3 6AQ",Z1678,707868,['Stocks and Shares']
 National Counties Building Society,National Counties Building Society,"Ebbisham House, 30 Church Street, Epsom, KT17 4NL",Z1175,206080,['Cash']
@@ -302,7 +302,7 @@ Nucleus Financial Services Limited,Nucleus Financial Services Limited,"Nucleus H
 Nude Finance Limited,Nude Finance Limited,"Tontine, 20 Trongate, Glasgow, G1 5ES",Z2046,928010,"['Cash', 'Stocks and Shares', 'Lifetime ISA']"
 Number One Police Credit Union Limited,Number One Police Credit Union Limited,"Slater House, Oakfield Road, Cheadle Royal Business Park, Cheadle, SK8 3GX",Z1631,213301,['Cash']
 Nutmeg Saving and Investment Limited,Nutmeg Saving and Investment Limited,"Vox Studios, 1 to 45 Durham Street, London, SE11 5JH",Z1777,552016,"['Lifetime ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
-Oakglen Wealth Limited,Oakglen Wealth Limited,"2 St James’s Market, London, SW1Y 4AH",Z2071,961763,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Oakglen Wealth Limited,Oakglen Wealth Limited,"2 St James's Market, London, SW1Y 4AH",Z2071,961763,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Oaknorth Bank plc,Oaknorth Bank plc,"57 Broadwick Street, London, W1F 9QS",Z1958,629564,['Cash']
 Oberon Investments Limited,Oberon Investments Limited,"1st Floor, 12 Hornsby Square, Southfields Business Park, Basildon, Essex, SS15 6SD",Z1674,124885,['Stocks and Shares']
 Octopus Investments Limited,Octopus Investments Limited,"33 Holborn, 6th Floor, London, EC1N 2HT",Z1557,194779,['Stocks and Shares']
@@ -336,13 +336,13 @@ Proplend Limited,Proplend Limited,"15 Little Green, Richmond, TW9 1QH",Z1935,726
 Prosper Capital LLP,Prosper Capital LLP,"The Bothy, Albury Park, Albury, GU5 9BH",Z1968,453007,['Innovative Finance ISA']
 Punjab National Bank (International) Limited,Punjab National Bank (International) Limited,"1-5 Moorgate, London, EC2R 6JH",Z1724,459701,['Cash']
 Punter Southall Wealth Limited,Punter Southall Wealth Limited,"88 Wood Street, London, EC2V 7QR",Z1563,478840,['Stocks and Shares']
-Quai Investment Services Ltd,Quai,"16 Tesla Court, Innovation Way, Peterborough, PE2 6FL",Z2053,922590,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA', 'Lifetime ISA']"
+Quai Investment Services Ltd,Quai Digital,"16 Tesla Court, Innovation Way, Peterborough, PE2 6FL",Z2053,922590,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA', 'Lifetime ISA']"
 Quilter Cheviot Limited,Quilter Cheviot Limited,"Senator House, 85 Queen Victoria Street, London, United Kingdom, EC4V 4AB",Z1167,124259,['Stocks and Shares']
 Quilter Investment Platform Limited,Quilter Investment Platform Limited,"Senator House, 85 Queen Victoria Street, London, United Kingdom, EC4V 4AB",Z1133,165359,"['Cash', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 R C Brown Investment Management plc,R C Brown Investment Management plc,"1 The Square, Temple Quay, Bristol, BS1 6DG",Z1729,146002,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Rathbones Investment Management Limited,Rathbones Investment Management Limited,"8 Finsbury Circus, London, England, EC2M 7AZ",Z1050,116316,"['Stocks and Shares', 'Junior ISA']"
 Rathbones Asset Management Limited,Rathbones Asset Management Limited,"8 Finsbury Circus, London, England, EC2M 7AZ",Z1365,144266,['Stocks and Shares']
-Ravenscroft Investments (UK) Limited,Ravenscroft Investments (UK) Limited,"The Singing Men’s Chambers, 19 Minster Precincts, Peterborough, PE1 1XX",Z1355,609277,['Stocks and Shares']
+Ravenscroft Investments (UK) Limited,Ravenscroft Investments (UK) Limited,"The Singing Men's Chambers, 19 Minster Precincts, Peterborough, PE1 1XX",Z1355,609277,['Stocks and Shares']
 Raymond James Investment Services Ltd,Raymond James Investment Services Ltd,"Ropemaker Place, 25 Ropemaker Street, London, England, EC2Y 9LY",Z1469,194713,['Stocks and Shares']
 RBC Europe Limited,RBC Europe Limited,"100 Bishopsgate, London, United Kingdom, EC2N 4AA",Z2030,124543,['Stocks and Shares']
 RBS Collective Investment Funds Limited,RBS Collective Investment Funds Limited,"House D, 2nd Floor, Gogarburn, Edinburgh, EH12 1HQ",Z1060,122139,"['Cash', 'Stocks and Shares', 'Junior ISA']"
@@ -350,27 +350,27 @@ Rebuildingsociety.com Limited,Rebuildingsociety.com Limited,"10-12 East Parade, 
 Redmayne-Bentley LLP,Redmayne-Bentley LLP,"3 Wellington Place, Leeds, West Yorkshire, LS1 4AP",Z1037,499510,['Stocks and Shares']
 Relendex Limited,Relendex Limited,"99-100 Turnmill Street, London, England, EC1M 5QP",Z1938,723117,['Innovative Finance ISA']
 Reliance Bank Limited,Reliance Bank Limited,"23-24 Lovat Lane, London, EC3R 8EB",Z1700,204537,['Cash']
-Resolution Compliance Limited,Resolution Compliance Limited,"4 St. Paul’s Churchyard, London, England, EC4M 8AY",Z1881,574048,"['Cash', 'Innovative Finance ISA', 'Stocks and Shares']"
+Resolution Compliance Limited,Resolution Compliance Limited,"4 St. Paul's Churchyard, London, England, EC4M 8AY",Z1881,574048,"['Cash', 'Innovative Finance ISA', 'Stocks and Shares']"
 Reyker Securities plc — this company is in administration,Reyker Securities plc — this company is in administration,"17 Moorgate, London, EC2R 6AR",Z1098,115308,"['Cash', 'Innovative Finance ISA', 'Stocks and Shares']"
 RLUM Limited,RLUM Limited,"Royal London House, Alderley Park, Congleton Road, Nether Alderley, Macclesfield, Cheshire, SK10 4EL",Z1669,144032,['Stocks and Shares']
 Rockpool Investments LLP,Rockpool Investments LLP,"10 Bressenden Place, London, England, SW1E 5DH",Z1972,572300,['Innovative Finance ISA']
 Rossie House Investment Management LLP,Rossie House Investment Management LLP,"50 Moray Place, Edinburgh, EH3 6BQ",Z1797,793399,['Stocks and Shares']
-Rothschild & Co Wealth Management UK Limited,Rothschild & Co Wealth Management UK Limited,"New Court, St Swithin’s Lane, London, EC4N 8AL",Z1536,218613,['Stocks and Shares']
+Rothschild & Co Wealth Management UK Limited,Rothschild & Co Wealth Management UK Limited,"New Court, St Swithin's Lane, London, EC4N 8AL",Z1536,218613,['Stocks and Shares']
 Rowan Dartington & Co Limited,Rowan Dartington & Co Limited,"Temple Point, Redcliffe Way, Bristol BS1 6NL",Z1119,155241,"['Cash', 'Stocks and Shares']"
 Royal London Savings Limited,Royal London Savings Limited,"Royal London House, Alderley Park, Congleton Road, Nether Alderley, Macclesfield, Cheshire, SK10 4EL",Z1402,191237,"['Cash', 'Stocks and Shares']"
 Royal London Unit Trust Managers Limited,Royal London Unit Trust Managers Limited,"55 Gracechurch Street, London, EC3V 0RL",Z1258,144037,['Stocks and Shares']
 Ruffer LLP,Ruffer LLP,"80 Victoria Street, London, SW1E 5JL",Z1565,229135,['Stocks and Shares']
 S&T Asset Management LLP,S&T Asset Management LLP,"43-45 Market Street, Marple, Stockport, Cheshire, SK6 7AA",Z1719,501695,['Stocks and Shares']
 Saffron Building Society,Saffron Building Society,"1A Market Place, Saffron, Walden, CB10 1HX",Z1246,100015,['Cash']
-Sainsbury’s Bank plc,Sainsbury’s Bank plc,"3 Lochside Ave, Edinburgh, EH12 9DJ",Z1234,184514,['Cash']
-Saltus Partners LLP,Saltus,"22-23 Old Burlington Street, London, W1S 2JJ",Z2002,402531,"['Stocks and Shares', 'Cash Junior ISA']"
+Sainsbury's Bank plc,Sainsbury's Bank plc,"3 Lochside Ave, Edinburgh, EH12 9DJ",Z1234,184514,['Cash']
+Saltus Partners LLP,Saltus Investment Managers,"22-23 Old Burlington Street, London, W1S 2JJ",Z2002,402531,"['Stocks and Shares', 'Cash Junior ISA']"
 Sanlam Securities UK Limited,Sanlam Securities UK Limited,"24 Monument Street, London EC3R 8AJ",Z2057,124345,['Stocks and Shares']
 Santander ISA Managers Limited,Santander ISA Managers Limited,"287 St Vincent Street, Glasgow, G2 5NB",Z1065,171448,"['Cash', 'Stocks and Shares']"
-Santander UK plc,Santander UK plc,"2 Triton Square, Regent’s Place, London, NW1 3AN",Z1820,106054,['Cash']
-Sarasin & Partners LLP,Sarasin & Partners LLP,"Juxon House, 100 St Paul’s Churchyard, London, EC4M 8BU",Z1890,475111,['Stocks and Shares']
-Sarasin Asset Management Limited,Sarasin Asset Management Limited,"Juxon House, 100 St Paul’s Churchyard, London, EC3M 8BU",Z1906,163584,['Stocks and Shares']
-Sarasin Investment Funds Limited,Sarasin Investment Funds Limited,"Juxon House, 100 St Paul’s Churchyard, London, EC4M 8BU",Z1502,122244,['Stocks and Shares']
-Saveable Limited,Plum,"2-7 Clerkenwell Green, 2nd Floor, London, EC1R 0DE",Z2040,739214,"['Cash', 'Stocks and Shares', 'LISA']"
+Santander UK plc,Santander UK plc,"2 Triton Square, Regent's Place, London, NW1 3AN",Z1820,106054,['Cash']
+Sarasin & Partners LLP,Sarasin & Partners LLP,"Juxon House, 100 St Paul's Churchyard, London, EC4M 8BU",Z1890,475111,['Stocks and Shares']
+Sarasin Asset Management Limited,Sarasin Asset Management Limited,"Juxon House, 100 St Paul's Churchyard, London, EC3M 8BU",Z1906,163584,['Stocks and Shares']
+Sarasin Investment Funds Limited,Sarasin Investment Funds Limited,"Juxon House, 100 St Paul's Churchyard, London, EC4M 8BU",Z1502,122244,['Stocks and Shares']
+Saveable Limited,Plum Money,"2-7 Clerkenwell Green, 2nd Floor, London, EC1R 0DE",Z2040,739214,"['Cash', 'Stocks and Shares', 'LISA']"
 Saxo Capital Markets UK Limited,Saxo Capital Markets UK Limited,"26th Floor, 40 Bank Street, Canary Wharf, London, E14 5DA",Z1849,551422,['Stocks and Shares']
 Schroder & Co Limited,Schroder & Co Limited,"1 London Wall Place, London, EC2Y 5AU",Z1819,144206,['Stocks and Shares']
 Schroder Unit Trusts Limited,Schroder Unit Trusts Limited,"1 London Wall Place, London, EC2Y 5AU",Z1825,197288,['Stocks and Shares']
@@ -388,26 +388,26 @@ Share Credit Limited,Share Credit Limited,"Suit E, 18th Floor, 40 Bank Street, L
 Share In Ltd,Share In Ltd,"Argyle House, 3 Lady Lawson Street, Edinburgh, EH3 9DR",Z1908,603332,"['Cash', 'Stocks and Shares', 'Innovative Finance ISA', 'Cash Junior ISA', 'Stocks and Shares Junior ISA', 'Lifetime ISA']"
 Shawbrook Bank Limited,Shawbrook Bank Limited,"Lutea House, Warley Hill Business Park, The Drive, Great Warley, Brentwood, Essex, CM13 3BE",Z1793,204574,['Cash']
 Sheffield Mutual Friendly Society Limited,Sheffield Mutual Friendly Society Limited,"3 Maple Park, Maple Court, Tankersley, Barnsley, S75 3DP",Z1525,139855,"['Cash', 'Stocks and Shares']"
-Shore Capital Stockbrokers Limited,Shore Capital Stockbrokers Limited,"Cassini House, 57-59 St James’s Street, London, England, SW1A 1LD",Z1504,124784,['Stocks and Shares']
+Shore Capital Stockbrokers Limited,Shore Capital Stockbrokers Limited,"Cassini House, 57-59 St James's Street, London, England, SW1A 1LD",Z1504,124784,['Stocks and Shares']
 Signia Money Limited,Signia Money Limited,"FKS House, 40-44 Newman Street, London, W1T 1QD",Z2020,631257,['Innovative Finance ISA']
 Skipton Building Society,Skipton Building Society,"The Bailey, Skipton, BD23 1DN",Z1219,153706,"['Cash', 'Lifetime ISA', 'Cash Junior ISA']"
 Slater Investments Limited,Slater Investments Limited,"Nicholas House, 3 Laurence Pountney Hill, London, EC4R 0EU",Z1925,165999,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
-St James’s Place Investment Administration Limited,St James’s Place Investment Administration Limited,"1 Tetbury Road, Cirencester, GL7 1FP",Z1838,622916,['Stocks and Shares']
+St James's Place Investment Administration Limited,St James's Place Investment Administration Limited,"1 Tetbury Road, Cirencester, GL7 1FP",Z1838,622916,['Stocks and Shares']
 Standard Life Savings Limited,Standard Life Savings Limited,"1 George Street, Edinburgh, United Kingdom, EH2 2LL",Z1344,188796,"['Cash', 'Stocks and Shares']"
 State Bank of India,State Bank of India,"15 King Street, London, EC2V 8EA",Z1742,139156,['Cash']
 State Bank of India (UK) Limited,State Bank of India (UK) Limited,"15 King Street, London, EC2V 8EA",Z1970,757156,"['Cash', 'Cash Junior ISA']"
 Stellar Asset Management Limited,Stellar Asset Management Limited,"Kendal House, 1 Conduit Street, London, United Kingdom, W1S 2XA",Z1821,474710,['Stocks and Shares']
-Sterling ISA Managers Limited,Advance,"100 Cannon Street, London, EC4N 6EU",Z1438,191278,"['Cash', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Sterling ISA Managers Limited,Advance by Embark,"100 Cannon Street, London, EC4N 6EU",Z1438,191278,"['Cash', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Strowz Limited,Strowz Limited,"14 Grays Inn Road, London WC1X 8HN",Z2009,792373,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Stubben Edge (Risk) Limited,Stubben Edge (Risk) Limited,"4th Floor, 77 Cornhill, London, EC3V 3QQ",Z2077 ,943286 ,['Cash']
 Suffolk Building Society,Suffolk Building Society,"Freehold House, 6-8 The Havens, Ransomes Europark, Ipswich, IP3 9SJ",Z1279,104875,['Cash']
 SVM Asset Management Limited,SVM Asset Management Limited,"7 Castle Street, Edinburgh, EH2 3AH",Z1454,146873,['Stocks and Shares']
 Swansea Building Society,Swansea Building Society,"11-12 Cradock Street, Swansea, SA1 3EW",Z1377,206066,['Cash']
 Synergy Financial Products Limited,Synergy Financial Products Limited,"Centrium 1, Griffiths Way, St Albans, AL1 2RD",Z1740,312416,"['Cash', 'Stocks and Shares']"
-T. Bailey Fund Services Limited,T. Bailey Fund Services Limited,"64 St James’s Street, Nottingham, NG1 6FJ",Z1520,190293,['Stocks and Shares']
+T. Bailey Fund Services Limited,T. Bailey Fund Services Limited,"64 St James's Street, Nottingham, NG1 6FJ",Z1520,190293,['Stocks and Shares']
 TAM Asset Management Ltd,TAM Asset Management Ltd,"City Tower, 40 Basinghall Street, London, EC2V 5DE",Z1100,208243,"['Cash', 'Stocks and Shares']"
 Target Servicing Limited,Target Servicing Limited,"Imperial Way, Newport, NP10 8UH",Z1846,454569,"['Cash', 'Stocks and Shares']"
-Teachers’ Building Society,Teachers’ Building Society,"Allenview House, Hanlam Road, Wimborne Minster, BH21 1AG",Z1097,156580,['Cash']
+Teachers' Building Society,Teachers' Building Society,"Allenview House, Hanlam Road, Wimborne Minster, BH21 1AG",Z1097,156580,['Cash']
 Telford Mann Limited,Telford Mann Limited,"Ironstone Place, Kettering, United Kingdom, NN14 1FN",Z1950,143390,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Tesco Personal Finance plc,Tesco Personal Finance plc,"2 South Gyle Crescent, Edinburgh, EH12 9FQ",Z1751,186022,['Cash']
 The Ancient Order of Foresters Friendly Society Ltd,The Ancient Order of Foresters Friendly Society Ltd,"Foresters House, 29-33 Shirley Road, Southampton SO15 3EW",Z1542,110029,"['Cash', 'Lifetime ISA', 'Stocks and Shares']"
@@ -418,25 +418,25 @@ The Exeter Practice Ltd,The Exeter Practice Ltd,"1 Charlotte Mews, Pavilion Plac
 The House Crowd Limited — this company is in administration,The House Crowd Limited — this company is in administration,"Quantuma Advisory Limited, No.1 Spinningfields Quay Street, Manchester, M3 3JE",Z1980,725648,['Innovative Finance ISA']
 The Mansfield Building Society,The Mansfield Building Society,"Regent Street, Mansfield, NG18 1SS",Z1077,206049,['Cash']
 The Mortgage Works (UK) plc,The Mortgage Works (UK) plc,"Richmond Hill, Bournemouth, Dorset, BH2 6EP",Z1038,189623,['Cash']
-The National Farmers’ Union Mutual Insurance Society Limited,The National Farmers’ Union Mutual Insurance Society Limited,"Tiddington Road, Stratford Upon Avon, CV37 7BJ",Z1503,117664,"['Cash', 'Stocks and Shares']"
+The National Farmers' Union Mutual Insurance Society Limited,The National Farmers' Union Mutual Insurance Society Limited,"Tiddington Road, Stratford Upon Avon, CV37 7BJ",Z1503,117664,"['Cash', 'Stocks and Shares']"
 The Rechabite Friendly Society Limited,The Rechabite Friendly Society Limited,"2 The Old Court House, Tenterden Street, Bury, Greater Manchester, BL9 0AL",Z1411,109994,"['Cash', 'Stocks and Shares']"
 The Red Rose Friendly Society Limited,The Red Rose Friendly Society Limited,"Parkgates, 52a Preston New Road, Blackburn, BB2 6AH",Z1752,110097,['Stocks and Shares']
 The Royal Bank of Scotland plc,The Royal Bank of Scotland plc,"36 St. Andrew Square, Edinburgh, EH2 2YB",Z1971,114724,"['Cash', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 The Royal London Mutual Insurance Society Limited,The Royal London Mutual Insurance Society Limited,"55 Gracechurch Street, London, EC3V 0RL",Z2038,117672,['Stocks and Shares']
 The Shepherds Friendly Society Limited,The Shepherds Friendly Society Limited,"Haw Bank House, High Street, Cheadle, SK8 1AL",Z1648,109997,"['Cash', 'Stocks and Shares', 'Lifetime ISA']"
 The Stafford Railway Building Society,The Stafford Railway Building Society,"4 Market Square, Stafford, ST16 2JH",Z1389,206063,['Cash']
-Thesis Asset Management Limited,Thesis Asset Management Limited,"Exchange Buildings, St John’s Street, Chichester, West Sussex, PO19 1UP",Z1040,114354,"['Cash', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
-Thesis Unit Trust Management Limited,Thesis Unit Trust Management Limited,"Exchange Buildings, St John’s Street, Chichester, West Sussex, PO19 1UP",Z2026,186882,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Thesis Asset Management Limited,Thesis Asset Management Limited,"Exchange Buildings, St John's Street, Chichester, West Sussex, PO19 1UP",Z1040,114354,"['Cash', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Thesis Unit Trust Management Limited,Thesis Unit Trust Management Limited,"Exchange Buildings, St John's Street, Chichester, West Sussex, PO19 1UP",Z2026,186882,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Third Platform Services Limited,Third Platform Services Limited,"Birchin Court, 20 Birchin Lane, London, EC3V 9DU",Z1888,717915,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Thomas Grant and Company Limited,Thomas Grant and Company Limited,"40A Friar Lane, Leicester, LE1 5RA",Z1041,163296,"['Cash', 'Stocks and Shares']"
 Threadneedle Investment Services Limited,Threadneedle Investment Services Limited,"Cannon Place, 78 Cannon Street, London, EC4N 6AG",Z1420,190437,['Stocks and Shares']
 Tifosy Limited,Tifosy Limited,"16 Hanover Square, London, England, W1S 1HT",Z1996,717605,['Innovative Finance ISA']
 TigerWit Ltd,TigerWit Ltd,"7th Floor, Augustine House, 6a Austin Friars, London, EC2N 2HA",Z1850,679941,"['Stocks and Shares', 'Lifetime ISA']"
-Tilney Asset Management Services Limited,Evelyn,"The Observatory, Western Road, Bracknell, Berkshire, RG12 1TL",Z1440,189997,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
+Tilney Asset Management Services Limited,Evelyn Partners,"The Observatory, Western Road, Bracknell, Berkshire, RG12 1TL",Z1440,189997,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
 Tilney Discretionary Portfolio Management Limited,Tilney Discretionary Portfolio Management Limited,"The Observatory, Western Road, Bracknell, Berkshire, RG12 1TL",Z1453,142989,"['Stocks and Shares', 'Junior ISA']"
 Tipton and Coseley Building Society,Tipton and Coseley Building Society,"70 Owen Street, Tipton, DY4 8HG",Z1082,159601,['Cash']
 Trading 212 UK Limited,Trading 212 UK Limited,"107 Cheapside, London, EC2V 6DN",Z1951,609146,['Stocks and Shares']
-Transport Friendly Society Limited,Transport Friendly Society Limited,"3rd Floor, Derbyshire House, St Chad’s Street, London, WC1H 8AG",Z1924,110020,"['Cash', 'Stocks and Shares']"
+Transport Friendly Society Limited,Transport Friendly Society Limited,"3rd Floor, Derbyshire House, St Chad's Street, London, WC1H 8AG",Z1924,110020,"['Cash', 'Stocks and Shares']"
 Triodos Bank UK Limited,Triodos Bank UK Limited,"Deanery Road, Bristol BS1 5AS",Z2013,817008,"['Cash', 'Cash Junior ISA', 'Stocks and Shares', 'Innovative Finance ISA']"
 Triple Point Investment Management LLP,Triple Point Investment Management LLP,"1 King William Street, London, EC4N 7AF",Z1901,456597,"['Innovative Finance ISA', 'Stocks and Shares']"
 True Potential Investments LLP,True Potential Investments LLP,"Newburn House, Gateway West, Newburn Riverside, Newcastle Upon Tyne, NE15 8NX",Z1750,527444,['Stocks and Shares']
@@ -449,11 +449,11 @@ United National Bank Limited,United National Bank Limited,"2 Brook Street, Londo
 United Trust Bank Limited,United Trust Bank Limited,"One Ropemaker Street, London, EC2Y 9AW",Z1505,204463,"['Cash', 'Stocks and Shares']"
 Valu-Trac Investment Management Limited,Valu-Trac Investment Management Limited,"Mains of Orton, Orton Fochabers, Moray, IV32 7QE",Z1796,145168,"['Cash', 'Stocks and Shares Lifetime ISA']"
 Vanguard Asset Management Limited,Vanguard Asset Management Limited,"Vanguard, 4th Floor, The Walbrook Building, 25 Walbrook, London, EC4N 8AF",Z1891,527839,"['Stocks and Shares', 'Stocks and Shares Junior ISA']"
-Vanquis Bank Limited,Vanquis,"20 Fenchurch Street, London EC3M 3BY",Z2043,221156,['Cash']
+Vanquis Bank Limited,Vanquis Bank Savings,"20 Fenchurch Street, London EC3M 3BY",Z2043,221156,['Cash']
 VCAP Capital Ltd,VCAP,"Olivers Barn, Maldon Road, Witham, CM8 3HY",Z2055,790419,"['Stocks and Shares', 'Stocks and Shares Junior ISA', 'Innovative Finance ISA']"
 Veritas Investment Partners (UK) Limited,Veritas Investment Partners (UK) Limited,"Riverside House, 2A Southwark Bridge Road, London SE1 9HA",Z1807,923827,['Stocks and Shares']
 Vernon Building Society,Vernon Building Society,"19 St Petersgate, Stockport, SK1 1HF",Z1247,195475,['Cash']
-Verso Investment Management LLP,Verso,"2nd Floor, The Clove Building, 4 Maguire Street, London, SE1 2NQ",Z1488,517235,['Stocks and Shares']
+Verso Investment Management LLP,Verso Investment Management,"2nd Floor, The Clove Building, 4 Maguire Street, London, SE1 2NQ",Z1488,517235,['Stocks and Shares']
 Verus Financial Services Limited,Verus Financial Services Limited,"Suite B107, 23 Goodlass Road, Speke, Liverpool, L24 9HJ",Z2068,765214,"['Innovative Finance ISA', 'Stocks and Shares']"
 Virgin Money Unit Trust Managers Limited,Virgin Money Unit Trust Managers Limited,"Jubilee House, Gosforth, Newcastle Upon Tyne, NE3 4PL",Z1675,171748,['Stocks and Shares']
 Vitality Life Limited,Vitality Life Limited,"4th Floor, 70 Gracechurch Street, London, EC3U 0XL",Z1977,675028,"['Stocks and Shares', 'Junior ISA']"
@@ -477,6 +477,6 @@ Williams Investment Management LLP,Williams Investment Management LLP,"34 Victor
 Windsor Private Office Investment Management Limited,Windsor Private Office Investment Management Limited,"Windsor House, Cornwall Road, Harrogate, HG1 2PW",Z2019,781702,['Stocks and Shares']
 Winterflood Securities Limited,Winterflood Securities Limited,"The Atrium Building, Cannon Bridge House, 25 Dowgate Hill, London, EC4R 2GA",Z1046,141455,"['Cash', 'Stocks and Shares', 'Junior ISA', 'Stocks and Shares Junior ISA']"
 WiseAlpha Technologies Limited,WiseAlpha,"Level 39, One Canada Square, Canary Wharf, London, E14 5AB",Z2018,751087,['Innovative Finance ISA']
-Yealand Fund Services Limited,Yealand Fund Services Limited,"Stuart House, St John’s Street, Peterborough, PE1 5DD",Z1855,530809,['Stocks and Shares']
+Yealand Fund Services Limited,Yealand Fund Services Limited,"Stuart House, St John's Street, Peterborough, PE1 5DD",Z1855,530809,['Stocks and Shares']
 Yorkshire Building Society,Yorkshire Building Society,"Yorkshire House, Yorkshire Drive, Bradford, BD5 8LJ",Z1294,106085,['Cash']
 Zopa Bank Limited,Zopa Bank Limited,"Cottons Centre, 47-49 Tooley Street, London, SE1 2QG",Z2064,800542,['Cash']
